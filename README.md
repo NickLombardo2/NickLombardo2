@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NickLombardo2
-- 👀 I’m interested in Pyhon programming and Data Science 
+- 👀 I’m interested in Python programming and Data Science 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
