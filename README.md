@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NickLombardo2
-- 👀 I’m interested in Python programming
-- 🌱 I’m currently learning python 
+- 👀 I’m interested in Python programming, and POSTgreSQL
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://nicklombardo2.github.io/My-Site/
 
