@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python programming, and POSTgreSQL
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://nicklombardo2.github.io/My-Site/
+- 📫 How to reach me  https://nicklombardo2.github.io/website-2/
 
 <!---
 NickLombardo2/NickLombardo2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
