@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NickLombardo2
 - 👀 I’m interested in JavaSCript, Python programming, and POSTgreSQL
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning JavaScript, HTML, CSS, node.js, React, and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  https://nicklombardo2.github.io/website-2/
 
